@@ -13,10 +13,11 @@ Fox Unlimited Warp a Best Script That you can get Unlimited Warp+ 1.1.1.1 DNS on
 
 ```
 apt-get install git python3
-git clone https://github.com/BlackFoxTM/Fox-UnlimitedWarp
-cd Fox-UnlimitedWarp
+git clone https://github.com/itz-lordtrend/UnlimitedWarp
+cd UnlimitedWarp
 pip3 install -r requirements.txt
 python3 unilmited_warp.py
 ```
 
-### Support : [Telegram Channel](https://t.me/BlackFoxSecurityTeam)
+### Support : [Contact Us](https://t.me/trendiesm)
+
