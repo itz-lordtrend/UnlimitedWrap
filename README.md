@@ -28,5 +28,5 @@ pip install --upgrade setuptools
 pip install --upgrade distribute
 ```
 
-### Support : [Contact Us](https://t.me/trendiesm)
+### Support : [Contact Us](https://telegram.me/trendiesm)
 
