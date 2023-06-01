@@ -13,8 +13,8 @@ Fox Unlimited Warp a Best Script That you can get Unlimited Warp+ 1.1.1.1 DNS on
 
 ```
 apt-get install git python3
-git clone https://github.com/itz-lordtrend/UnlimitedWarp
-cd UnlimitedWarp
+git clone https://github.com/itz-lordtrend/UnlimitedWrap/
+cd UnlimitedWrap
 pip3 install -r requirements.txt
 python3 unilmited_warp.py
 ```
