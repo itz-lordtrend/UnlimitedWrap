@@ -41,8 +41,8 @@ def warp_unlimited(id_code):
 banner = Figlet(font="whimsy").renderText("Warp Fox")
 
 print (text(banner))
-print (Fore.RED + "[$] Created By Maximum Radikali")
-print (Fore.GREEN + "[$] Channel ~> @BlackFoxSecurityTeam")
+print (Fore.RED + "[$] Created By INDxTREND")
+print (Fore.GREEN + "[$] User ~> @trendieam")
 print (Fore.LIGHTMAGENTA_EX + "[&] Warp Plus Unlimited Script ! ")
 print (Fore.YELLOW + "=====================================") ; code_id = input(Fore.CYAN + "[+] Please Enter Your Client ID : ")
 
